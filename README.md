@@ -39,23 +39,23 @@ FUNCTIONALITIES
 1.Vehicle Management
 *Dealers can add, edit, or delete vehicle listings.  
 *Listings include specifications, images, and pricing details.  
-*Status (for sale or rent) can be toggled.    
+*Status (for sale or rent) can be toggled.      
 
 2.Feedback System
-*Users can provide feedback after transactions or interactions.    
-*Feedback is stored securely in files for admin review.  
+*Users can provide feedback after transactions or interactions.      
+*Feedback is stored securely in files for admin review.    
 
 3.Search and Filter
-*Users can search vehicles by make, model, year, price range, or condition.  
-*Filter options for "Sell Only" or "Rent Only."  
+*Users can search vehicles by make, model, year, price range, or condition.    
+*Filter options for "Sell Only" or "Rent Only."    
 
 4.File Storage
-*Data about vehicles, users, dealers, and feedback is stored in separate files.  
-*The system maintains a log of all operations for tracking.  
+*Data about vehicles, users, dealers, and feedback is stored in separate files.    
+*The system maintains a log of all operations for tracking.    
 
 5.Authentication System
-*Admin, dealers, and users have unique login credentials.  
-*Secure authentication ensures role-based access to features.  
+*Admin, dealers, and users have unique login credentials.    
+*Secure authentication ensures role-based access to features.    
 
 
 ## 🚀 Skills

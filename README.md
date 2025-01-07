@@ -5,8 +5,11 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- SECOND SPIN RENTALS:  
+
+ SECOND SPIN RENTALS is designed to facilitate the buying, selling, and renting of second-hand cars and bikes. It incorporates an admin profile, dealer profile, and user interactions. The primary functionalities include managing vehicle listings, gathering user feedback, and securely storing all data in files for future reference.
+
+
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -33,7 +36,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University</dt>
 <dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Second spin rentals</dd>
+<dd>SECOND SPIN RENTALS</dd>
 </dl>
 
 <br> 

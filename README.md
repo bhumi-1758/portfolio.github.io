@@ -35,7 +35,7 @@ Users interact with the platform to buy, sell, or rent vehicles. They can:
 *Submit inquiries about specific vehicles.
 *Store purchase/rental history in their profile.
 
-Functionalities
+FUNCTIONALITIES
 1Vehicle Management
 *Dealers can add, edit, or delete vehicle listings.
 *Listings include specifications, images, and pricing details.

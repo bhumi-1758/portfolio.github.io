@@ -1,0 +1,224 @@
+Dealer: Adesh
+Brand: Maruti Suzuki
+Car: Alto
+Type: Petrol
+Cost: 4,00,000/-
+CC: 800
+Model Year: 2022
+Mileage: 22
+
+Dealer: Adesh
+Brand: Maruti Suzuki
+Car: Swift
+Type: Petrol
+Cost: 5,00,000/-
+CC: 1200
+Model Year: 2021
+Mileage: 20
+
+Dealer: Adesh
+Brand: Maruti Suzuki
+Car: e-Alto
+Type: Electric
+Cost: 6,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 150
+
+Dealer: Adesh
+Brand: Maruti Suzuki
+Car: e-Swift
+Type: Electric
+Cost: 7,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 180
+
+Dealer: Adesh
+Brand: BMW
+Car: X5
+Type: Petrol
+Cost: 60,00,000/-
+CC: 3000
+Model Year: 2020
+Mileage: 12
+
+Dealer: Adesh
+Brand: BMW
+Car: 320i
+Type: Petrol
+Cost: 23,00,000/-
+CC: 2000
+Model Year: 2021
+Mileage: 15
+
+Dealer: Adesh
+Brand: BMW
+Car: i3
+Type: Electric
+Cost: 35,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 200
+
+Dealer: Adesh
+Brand: BMW
+Car: i4
+Type: Electric
+Cost: 55,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 220
+
+Dealer: Abhishek
+Brand: Maruti Suzuki
+Car: Alto
+Type: Petrol
+Cost: 3,50,000/-
+CC: 800
+Model Year: 2021
+Mileage: 23
+
+Dealer: Abhishek
+Brand: Maruti Suzuki
+Car: Swift
+Type: Petrol
+Cost: 4,50,000/-
+CC: 1200
+Model Year: 2021
+Mileage: 20
+
+Dealer: Abhishek
+Brand: Maruti Suzuki
+Car: Taycan
+Type: Electric
+Cost: 65,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 250
+
+Dealer: Abhishek
+Brand: Maruti Suzuki
+Car: e-Macan
+Type: Electric
+Cost: 50,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 230
+
+Dealer: Abhishek
+Brand: Porsche
+Car: Cayenne
+Type: Petrol
+Cost: 12,43,000/-
+CC: 3000
+Model Year: 2020
+Mileage: 10
+
+Dealer: Abhishek
+Brand: Porsche
+Car: Panamera
+Type: Petrol
+Cost: 6,00,000/-
+CC: 2500
+Model Year: 2019
+Mileage: 12
+
+Dealer: Abhishek
+Brand: Porsche
+Car: Mach-E
+Type: Electric
+Cost: 45,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 220
+
+Dealer: Abhishek
+Brand: Porsche
+Car: Lightning
+Type: Electric
+Cost: 40,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 210
+
+Dealer: Abhishek
+Brand: Ford
+Car: Mustang
+Type: Petrol
+Cost: 60,00,000/-
+CC: 5000
+Model Year: 2020
+Mileage: 8
+
+Dealer: Abhishek
+Brand: Ford
+Car: Figo
+Type: Petrol
+Cost: 3,00,000/-
+CC: 1000
+Model Year: 2021
+Mileage: 18
+
+Dealer: Shek
+Brand: BMW
+Car: X5
+Type: Petrol
+Cost: 89,09,000/-
+CC: 3000
+Model Year: 2020
+Mileage: 10
+
+Dealer: Shek
+Brand: BMW
+Car: 320i
+Type: Petrol
+Cost: 45,65,000/-
+CC: 2000
+Model Year: 2021
+Mileage: 12
+
+Dealer: Shek
+Brand: BMW
+Car: i3
+Type: Electric
+Cost: 35,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 200
+
+Dealer: Shek
+Brand: BMW
+Car: iX
+Type: Electric
+Cost: 60,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 250
+
+Dealer: Shek
+Brand: Ford
+Car: Mustang
+Type: Petrol
+Cost: 7,00,000/-
+CC: 5000
+Model Year: 2020
+Mileage: 8
+
+Dealer: Shek
+Brand: Ford
+Car: Figo
+Type: Petrol
+Cost: 65,00,000/-
+CC: 1000
+Model Year: 2021
+Mileage: 18
+
+Dealer: Shek
+Brand: Ford
+Car: Lightning
+Type: Electric
+Cost: 40,00,000/-
+CC: N/A
+Model Year: 2023
+Mileage: 220

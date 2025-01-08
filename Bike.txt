@@ -1,0 +1,263 @@
+Dealer: Adesh
+Brand: Hero
+
+Type: Petrol
+
+Bike: Splendor
+
+Cost: ₹65,000
+Engine CC: 97
+Model Year: 2021
+Mileage: 70 km/l
+
+Bike: Bajaj CT 125X
+
+Cost: ₹80,000
+Engine CC: 125
+Model Year: 2022
+Mileage: 60 km/l
+
+Bike: TVS Star City Plus
+
+Cost: ₹80,000
+Engine CC: 110
+Model Year: 2022
+Mileage: 68 km/l
+
+Type: Electric
+
+Bike: Vida
+
+Cost: ₹1,60,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 165 km/full charge
+
+Bike: Oben Rorr
+
+Cost: ₹1,50,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 150 km/full charge
+
+Bike: Pure EV EPluto 7G
+
+Cost: ₹1,10,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 120 km/full charge
+
+Brand: Suzuki
+
+Type: Petrol
+
+Bike: Maestro
+
+Cost: ₹85,000
+Engine CC: 124
+Model Year: 2022
+Mileage: 50 km/l
+
+Bike: Dio
+
+Cost: ₹85,000
+Engine CC: 110
+Model Year: 2023
+Mileage: 48 km/l
+Type: Electric
+
+Bike: Okinawa
+
+Cost: ₹1,10,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 100 km/full charge
+
+Bike: Optima CX
+
+Cost: ₹55,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 82 km/full charge
+
+Bike: Infinity E1
+
+Cost: ₹1,00,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 85 km/full charge
+Dealer: Abhishek
+Brand: Hero
+
+Type: Petrol
+
+Bike: Splendor
+
+Cost: ₹55,000
+Engine CC: 97
+Model Year: 2021
+Mileage: 70 km/l
+
+Bike: CT 125X
+
+Cost: ₹74,801
+Engine CC: 125
+Model Year: 2022
+Mileage: 60 km/l
+
+Bike: Shine
+
+Cost: ₹68,000
+Engine CC: 124
+Model Year: 2022
+Mileage: 65 km/l
+Type: Electric
+
+Bike: Vida
+
+Cost: ₹1,60,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 165 km/full charge
+
+Bike: Oben Rorr
+
+Cost: ₹1,25,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 150 km/full charge
+
+Bike: Revolt RV 400
+
+Cost: ₹1,15,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 150 km/full charge
+Brand: TVS
+
+Type: Petrol
+
+Bike: Maestro
+
+Cost: ₹77,017
+Engine CC: 124
+Model Year: 2022
+Mileage: 50 km/l
+
+Bike: Dio
+
+Cost: ₹65,000
+Engine CC: 110
+Model Year: 2023
+Mileage: 48 km/l
+Type: Electric
+
+Bike: Optima
+
+Cost: ₹72,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 82 km/full charge
+
+Bike: Ampere Magnus EX
+
+Cost: ₹59,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 80 km/full charge
+
+Bike: TVS iQube
+
+Cost: ₹1,20,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 70 km/full charge
+
+Dealer: Shek
+
+Brand: Hero
+
+Type: Petrol
+
+Bike: Splendor
+
+Cost: ₹57,000
+Engine CC:97
+Model Year: 2021
+Mileage: 70 km/l
+Bike: Bajaj CT 125X
+
+Cost: ₹80,000
+Engine CC:125
+Model Year: 2022
+Mileage: 60 km/l
+Bike: TVS Radeon
+
+Cost: ₹66,000
+Engine CC: 109
+Model Year: 2021
+Mileage: 69 km/l
+
+Type: Electric
+
+Bike: Vida
+
+Cost: ₹1,40,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 165 km/full charge
+
+Bike: Oben Rorr
+
+Cost: ₹1,30,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 150 km/full charge
+
+Bike: Tork Kratos
+
+Cost: ₹1,36,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 180 km/full charge
+
+Brand: Honda
+
+Type: Petrol
+
+Bike: Maestro
+
+Cost: ₹64,000
+Engine CC: 124
+Model Year: 2022
+Mileage: 50 km/l
+
+Bike: Dio
+
+Cost: ₹84,000
+Engine CC: 110
+Model Year: 2023
+Mileage: 48 km/l
+
+Type: Electric
+
+Bike: Okinawa
+
+Cost: ₹1,43,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 100 km/full charge
+
+Bike: Hero Optima CX
+
+Cost: ₹85,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 82 km/full charge
+
+Bike: Infinity E1
+
+Cost: ₹1,10,000
+Engine CC: N/A (Electric)
+Model Year: 2023
+Mileage: 85 km/full charge

@@ -63,16 +63,16 @@ FUNCTIONALITIES
 - Data Structures and Algorithms
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/bhumi-1758)
+- [LinkedIn](https://www.linkedin.com/in/bhumika-nagarali-9158772aa/)
 
 ## Portfolio Topic
 
 <dl>
 <dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
+<dd>Design and Analysis of Algorithms </dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
 <dd>Bhumika Nagarali</dd>
 <dt>SRN</dt>
@@ -86,5 +86,5 @@ FUNCTIONALITIES
 </dl>
 
 <br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
+> "Passion is the fuel behind a successful career. When you do what you love, it never feels like work." – Anonymous
 >
